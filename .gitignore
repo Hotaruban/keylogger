@@ -1,0 +1,5 @@
+# ignore pycache
+./keylogger/__pycache__/
+
+# ignore logs
+./keylogger/.logs/
